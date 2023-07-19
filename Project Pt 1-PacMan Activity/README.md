@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+This project shows an animated PacMan image that automatically moves back and forth, changing directions when it hits the page edge. This was coded in HTML and JavaScript.

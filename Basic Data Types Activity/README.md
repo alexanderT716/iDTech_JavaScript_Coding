@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+This project involved outputting a complete short story with strings, variables, and arrays in Javascript. Follow Fabian the Fearless as he recalls an eventful tale from his past. 
